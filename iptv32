@@ -1,1 +1,12 @@
+#EXTM3U
+#EXTINF:-1,A
+http://hbox.cdnss.me/get.php?username=tolgax1x&password=tolgax1x&type=m3u
+#EXTINF:-1,B
+http://elattar-tv.org:8080/get.php?username=dazexchange&password=b4mg5uu7eY&type=m3u
+#EXTINF:-1,C
+http://vipeiptv.com:25461/get.php?username=marc82311ip&password=marc82311ip&type=m3u
+#EXTINF:-1,D
+http://iptvx.redirectme.net:35543/get.php?username=mK5K3thDrU&password=jc1JyLf6vN&type=m3u
+#EXTINF:-1,E
+http://goiptv.co:8080/get.php?username=ziouiahmed&password=ldfqcx8bvm&type=m3u
 
